@@ -1,0 +1,10 @@
+C:\Users\diego\source\repos\Tarea\Ejercicio-10\bin\Debug\netcoreapp3.0\Ejercicio-10.exe
+C:\Users\diego\source\repos\Tarea\Ejercicio-10\bin\Debug\netcoreapp3.0\Ejercicio-10.deps.json
+C:\Users\diego\source\repos\Tarea\Ejercicio-10\bin\Debug\netcoreapp3.0\Ejercicio-10.runtimeconfig.json
+C:\Users\diego\source\repos\Tarea\Ejercicio-10\bin\Debug\netcoreapp3.0\Ejercicio-10.runtimeconfig.dev.json
+C:\Users\diego\source\repos\Tarea\Ejercicio-10\bin\Debug\netcoreapp3.0\Ejercicio-10.dll
+C:\Users\diego\source\repos\Tarea\Ejercicio-10\bin\Debug\netcoreapp3.0\Ejercicio-10.pdb
+C:\Users\diego\source\repos\Tarea\Ejercicio-10\obj\Debug\netcoreapp3.0\Ejercicio-10.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Tarea\Ejercicio-10\obj\Debug\netcoreapp3.0\Ejercicio-10.AssemblyInfo.cs
+C:\Users\diego\source\repos\Tarea\Ejercicio-10\obj\Debug\netcoreapp3.0\Ejercicio-10.dll
+C:\Users\diego\source\repos\Tarea\Ejercicio-10\obj\Debug\netcoreapp3.0\Ejercicio-10.pdb
