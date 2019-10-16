@@ -1,5 +1,5 @@
 ﻿using System;
-
+//Diego Raúl Mera Palma
 namespace Ejercicio_6
 {
     class Program
